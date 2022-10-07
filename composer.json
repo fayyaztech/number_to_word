@@ -1,0 +1,16 @@
+{
+    "name": "fayyaztech/number_to_word",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fayyaztech\\NumberToWord\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "fayyaztech",
+        "email": "fayyaztech@gmail.com"
+    }],
+    "minimum-stability": "stable",
+    "require": {}
+}
