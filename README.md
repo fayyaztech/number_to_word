@@ -5,6 +5,11 @@
 - Call below function where ever you need
 - this is a static function no need to create an object of the class
 
+## installation
+```console
+composer require fayyaztech/number_to_word
+```
+
 ```php
 echo NumberToWord::convert(123)
 ```
