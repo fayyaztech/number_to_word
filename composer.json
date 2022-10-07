@@ -1,5 +1,13 @@
 {
     "name": "fayyaztech/number_to_word",
+    "description": "Convert Number/Figure to word. currently we are support english language only",
+    "keywords": [
+        "number-to-word",
+        "figure",
+        "word converter",
+        "number converter",
+        "English Numbers"
+    ],
     "type": "library",
     "license": "MIT",
     "autoload": {
